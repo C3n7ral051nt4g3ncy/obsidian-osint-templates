@@ -46,4 +46,5 @@ tags: Ancestry
 ## Obsidian Ancestry Template Image
 <br>
 
-https://user-images.githubusercontent.com/104733166/177363599-e8996520-52f7-4def-b896-516457ec23e6.png
+<img width="2109" src="https://user-images.githubusercontent.com/104733166/177364747-320f9e54-1ab1-4244-8aa9-9d638b431f83.png">
+
